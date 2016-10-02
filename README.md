@@ -10,5 +10,6 @@ The topics covered include:
 
 and some important concepts such as:
 - Maximum likelihood estimation
+- Decision boundaries
 - Ensemble methods
 - Online learning
